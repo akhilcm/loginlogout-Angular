@@ -23,6 +23,7 @@
               "src/assets"
             ],
             "styles": [
+              "/home/akhil/ABCD/Angularr/Login/node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
